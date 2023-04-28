@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src= 'https://github.com/BrainModes/fast-slow/blob/main/aux/header.pdf'>
+    <img src= 'https://github.com/BrainModes/fast-slow/blob/6e624f0217e41d99a42edb8495fa32e94f9bc8b6/aux/header.pdf'>
 </p>
 
 <p align="left">
