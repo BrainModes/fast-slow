@@ -3,6 +3,7 @@
 </p>
 
 <p align="left">
+    <a href="https://zenodo.org/badge/latestdoi/523258545"><img src="https://zenodo.org/badge/523258545.svg" alt="DOI"></a>
     <a href="https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12" alt="License-EUPL-1.2-or-later">
         <img src="https://img.shields.io/badge/license-EUPL--1.2--or--later-green" /></a>
 </p>
