@@ -1,8 +1,8 @@
 <p align='center'>
-    <img src= 'https://github.com/brainmodes/fast-slow/aux/header.pdf'>
+    <img src= 'https://github.com/BrainModes/fast-slow/blob/main/aux/header.pdf'>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12" alt="License-EUPL-1.2-or-later">
         <img src="https://img.shields.io/badge/license-EUPL--1.2--or--later-green" /></a>
 </p>
