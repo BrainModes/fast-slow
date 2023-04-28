@@ -10,11 +10,11 @@
 # Learning how network structure shapes decision-making for bio-inspired computing
 ## Excitation-inhibition balance fitting of brain network models
 
-Michael Schirner, Gustavo Deco & Petra Ritter
-Berlin Institute of Health at Charité – Universitätsmedizin Berlin
+Michael Schirner, Gustavo Deco & Petra Ritter  
+Berlin Institute of Health at Charité – Universitätsmedizin Berlin  
 Universitat Pompeu Fabra
 
-Contact: [Michael Schirner](mailto:michael.schirner@bih-charite.de) and [Petra Ritter](mailto:petra.ritter@bih-charite.de)
+Contact: [Michael Schirner](mailto:michael.schirner@bih-charite.de) and [Petra Ritter](mailto:petra.ritter@bih-charite.de). 
 Brain Simulation Group: [brainsimulation.org](https://www.brainsimulation.org/) 
 
 ## Overview
