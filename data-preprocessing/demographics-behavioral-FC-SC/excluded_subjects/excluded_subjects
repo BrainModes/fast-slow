@@ -1,0 +1,3 @@
+105014 was excluded b/c response function parameters for WM, GM, CSF were heavy outliers
+
+~113 subjects (see bvals_stats.mat) needed to be excluded because of missing or too few DWI gradient directions - only 787 subjects had the full 3 DWI shells
