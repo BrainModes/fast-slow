@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src= 'aux/header.pdf'>
+    <img src= 'aux/header.jpg'>
 </p>
 
 <p align="left">
